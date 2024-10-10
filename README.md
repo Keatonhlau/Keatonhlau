@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Keatonhlau
-- 👀 I’m interested in technoligy
+- 👀 I’m interested in tech
 - 🌱 I’m currently learning go
 <!---
 Keatonhlau/Keatonhlau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
